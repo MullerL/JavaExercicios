@@ -1,0 +1,4 @@
+[MATRICULA] = 2012
+[NOME] = www
+[TELEFONE] = 111
+[EMAIL] = @www

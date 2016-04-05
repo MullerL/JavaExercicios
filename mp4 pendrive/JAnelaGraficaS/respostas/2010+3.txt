@@ -1,0 +1,4 @@
+[PERGUNTA] =  pqp?
+[RESPOSTA] = www
+[PERGUNTA] =  pqp2?
+[RESPOSTA] = www

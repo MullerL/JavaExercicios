@@ -1,0 +1,25 @@
+Problemas na leitura do scc e no módulo TV:
+Baixar o framework .net 3.5
+http://download.microsoft.com/download/7/0/3/703455ee-a747-4cc8-bd3e-98a615c3aedb/dotNetFx35setup.exe
+
+Medidor de velocidade da internet:
+http://www.speedtest.net/
+
+Team viewer:
+www.mitis.com.br/crm/teamviewer.exe
+
+CRM:
+www.mitis.com.br/crm/setupcrm.exe
+
+Atualização CRM:
+www.mitis.com.br/crm/atucrm.exe
+
+SMP: TERMOM DE SOLICITAÇÃO DE PEDIDOS \\ contrato da vivo
+
+scc: onde fica o pedido de plano a ser analisado pela vivo
+
+
+
+www.youtube.com
+login: canalmitis
+senha: m1t1s0101

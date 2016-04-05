@@ -1,0 +1,12 @@
+[PERGUNTA] = 01 vamos começar do vomelo
+[RESPOSTA] = não
+[PERGUNTA] = 02 rapadura e dove amsi nçai e mole
+[RESPOSTA] = éeeeee
+[PERGUNTA] =  oq e o q e?
+[RESPOSTA] = oq q é!!!!
+[PERGUNTA] =  o que é ha?
+[RESPOSTA] =  o qu e ra s eoassafj
+[PERGUNTA] =  vamos começar do vomelo
+[RESPOSTA] = não
+[PERGUNTA] =  rapadura e dove amsi nçai e mole
+[RESPOSTA] = e

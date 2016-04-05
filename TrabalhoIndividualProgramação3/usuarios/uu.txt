@@ -1,0 +1,4 @@
+[USUARIO] = uu
+[SENHA] = 123
+[CONFIRMACAO_DE_SENHA] = 123
+[ULTIMO_ACESSO] = Quinta-feira, 27 de Outubro de 2011 as 17:19 PM

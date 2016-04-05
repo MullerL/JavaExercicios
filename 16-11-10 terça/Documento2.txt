@@ -1,0 +1,22 @@
+import javax.swing.*;
+class arranjoJOpP
+{
+public static void main (String args[])
+{
+char letra[]=new char[3];
+String resp = JOptionPane.showInputDialog(null,"digite uma vogal");
+//resp = Input.readString();
+letra[0]=resp.charAt(0);
+JOptionPane.showInputDialog(null,"digite uma vogal");
+
+//resp = Input.readString();
+letra[1]=resp.charAt(0);
+JOptionPane.showInputDialog(null,"digite uma vogal");
+//resp =Input.readString();
+letra[2]=resp.charAt(0);
+
+JOptionPane.showInputDialog(null,letra [0]);
+JOptionPane.showInputDialog(null,letra [1]);
+JOptionPane.showInputDialog(null,letra [2]);
+}
+}

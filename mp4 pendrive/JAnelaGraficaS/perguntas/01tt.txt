@@ -1,0 +1,2 @@
+[PERGUNTA_01] = 01 vamos começar do vomelo
+[PERGUNTA_02] = 02 rapadura e dove amsi nçai e mole

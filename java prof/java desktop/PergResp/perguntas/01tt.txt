@@ -1,0 +1,3 @@
+[PERGUNTA_01] = 01 ia i come q e?
+
+[PERGUNTA_02] = 02 fogo na bomba?	

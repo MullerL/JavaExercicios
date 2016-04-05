@@ -1,0 +1,5 @@
+[PERGUNTA_01] = 01 oi?
+[PERGUNTA_02] = 02 tudo bem?
+[PERGUNTA_03] = 03 como vai vc?
+[PERGUNTA_04] = 04 e sua familia?
+

@@ -1,0 +1,2 @@
+[PERGUNTA_01] = 01 eu não sei dizer o q quer dizer?
+[PERGUNTA_02] = 02 eu não sei porq o q quer dizer oq vou dizer?

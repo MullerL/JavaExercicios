@@ -1,0 +1,8 @@
+[PERGUNTA] =  eu não sei dizer o q quer dizer?
+[RESPOSTA] = 123
+[PERGUNTA] =  eu não sei porq o q quer dizer oq vou dizer?
+[RESPOSTA] = 654
+[PERGUNTA] =  eu não sei dizer o q quer dizer?
+[RESPOSTA] = aaaaaa
+[PERGUNTA] =  eu não sei porq o q quer dizer oq vou dizer?
+[RESPOSTA] = sssssss

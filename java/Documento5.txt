@@ -1,0 +1,8 @@
+class OperadoresAritimeticos
+public static void main(String args[])
+   {
+   //Operadores Aritiméticos 
+   byte b1,b2,b3,b4;
+   b1=b2=b3=b4=10;
+   system.out.plintln("Eu amo Java");
+   }}

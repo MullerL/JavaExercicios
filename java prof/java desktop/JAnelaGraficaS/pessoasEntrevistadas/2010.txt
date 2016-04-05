@@ -1,0 +1,4 @@
+[MATRICULA] = 2010
+[NOME] = eu
+[TELEFONE] = 33
+[EMAIL] = @eee

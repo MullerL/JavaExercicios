@@ -1,0 +1,4 @@
+[USUARIO] = rr
+[SENHA] = 123
+[CONFIRMACAO_DE_SENHA] = 123
+[ULTIMO_ACESSO] = Quinta-feira, 10 de Novembro de 2011 as 03:52 AM

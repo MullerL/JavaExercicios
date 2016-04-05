@@ -1,0 +1,2 @@
+[PERGUNTA] =  pppppp?
+[RESPOSTA] = ooo

@@ -1,0 +1,2 @@
+[PERGUNTA_01] = 01 oq e o q e?
+[PERGUNTA_02] = 02 o que é ha?

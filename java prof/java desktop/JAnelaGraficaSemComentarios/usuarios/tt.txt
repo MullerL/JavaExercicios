@@ -1,0 +1,4 @@
+[USUARIO] = tt
+[SENHA] = ll
+[CONFIRMACAO_DE_SENHA] = ll
+[ULTIMO_ACESSO] = Segunda-feira, 07 de Novembro de 2011 as 01:50 AM

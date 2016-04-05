@@ -1,0 +1,4 @@
+[USUARIO] = tt
+[SENHA] = 123
+[CONFIRMACAO_DE_SENHA] = 123
+[ULTIMO_ACESSO] = Quarta-feira, 12 de Outubro de 2011 as 23:58 PM

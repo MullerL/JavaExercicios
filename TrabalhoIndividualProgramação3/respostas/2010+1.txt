@@ -1,0 +1,4 @@
+[PERGUNTA] = 01 qual a c?
+[RESPOSTA] = kkkk
+[PERGUNTA] = 02 iiiiii??
+[RESPOSTA] = kkkkk

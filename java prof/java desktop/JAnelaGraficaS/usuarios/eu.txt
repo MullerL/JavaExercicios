@@ -1,0 +1,4 @@
+[USUARIO] = eu
+[SENHA] = 1234
+[CONFIRMACAO_DE_SENHA] = 1234
+[ULTIMO_ACESSO] = Sábado, 05 de Novembro de 2011 as 04:24 AM
